@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kagjfif.jpg"
-  name             : "Kaige Gao"
-  pronouns         : # example: "she/her"  
+  avatar           : "kagjfif.png"
+  name             : "Kaige (Mia) Gao"
+  #pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Cleveland"
+  employer         : "Case Western Reserve University"
+  #uri              : # URL
+  email            : "kxg297@case.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
