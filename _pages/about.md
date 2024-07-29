@@ -8,7 +8,7 @@ My research primarily focuses on distributed innovation, particularly on underst
 Research in Progress
 ======
 1. 
-
+2.
 
 Site-wide configuration
 ------
