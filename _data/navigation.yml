@@ -6,11 +6,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "About Me"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
