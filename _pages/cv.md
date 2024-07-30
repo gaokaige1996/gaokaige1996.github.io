@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-#* M.S. in Jekyll, GitHub University, 2014
-#* B.S. in GitHub, GitHub University, 2012
-*Case Western Reserve University, Cleveland, OH, USA                                          Aug, 2019 – Present
-  Ph.D., Information System
 
-*University of Maryland, College Park, MD, USA			                                          Aug, 2017 – Dec, 2018
-  M.A., Business Analytics 
-
-*Sun Yat-sen University, China		                                                            Sep, 2013 – Jun, 2017
-  B.A., Finance
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Case Western Reserve University, Cleveland, OH, USA  Ph.D., Information System                         Aug, 2019 – Present
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+*University of Maryland, College Park, MD, USA	 M.A., Business Analytics 		                                          Aug, 2017 – Dec, 2018
+ 
+
+*Sun Yat-sen University, China		  B.A., Finance                                                          Sep, 2013 – Jun, 2017
+  
+
+Research Interests
 ======
+*	Research Area: Evolution of Distributed Innovations, Big Data Analytics
+
+* Research Methodology: Network Analysis, Data Mining, Deep Learning, Econometric Analysis
+
+Professional Background
+======
+* Programming Language/Statistic Software Skills: Python, R, SAS, SQL, Tableau, Hadoop
+
+  
+Research Papers
+======
+* Beyond tie strength: The effect of tie variability on project development in the OSS community, with Youngjin Yoo and Aaron Schecter, Revise and Resubmit at Information System Research
+* Cross-boundary AI Innovation as Recombinant Search in Heterogeneous Landscapes: A Network Analysis of Computer Science and Autonomous Vehicle Fields (2009-2020) with Dongyeob Kim, Youngjin Yoo, and Zhewei Zhang, Academic of Management, Chicago, United States, August 2024
+* Models as social actors and their influence in the academic research diffusion, with Youngjin Yoo and Aaron Schecter, International Conferences on Information System (ICIS), Hyderabad, India, December 2023
+*	A Dynamic Analysis of the Interaction between Internal and External Networks of Open-source Projects on Innovations, with Youngjin Yoo and Aaron Schecter, International Conferences on Information System (ICIS), Austin, United States, December 2021
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Work In Progress
+======
+* From Code to Road: Examining the Role of AI Keywords' Network Embeddedness in Shaping Patent Innovations in the Autonomous Vehicle Industry, with Dongyeob Kim, Youngjin Yoo, and Yoon Son 
+*	Unraveling the Impact of Model Dependency Networks on the Propagation of Artificial Intelligence Innovation, with Youngjin Yoo and Aaron Schecter, submitted to International Conferences on Information System (ICIS), 2024
+
   
 Talks
 ======
@@ -61,12 +54,29 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Instructor, Weatherhead School of Management, Case Western Reserve University
+-	Advanced Marketing Analytics (Graduate Course), Spring 2023
+
+Teaching Assistant, Weatherhead School of Management, Case Western Reserve University
+-	Advanced Marketing Analytics (Graduate Course), Spring 2022
+
+Teaching Assistant, Robert H. Smith School of Business, University of Maryland
+-	Essential Data Skills for Business Analytics (Undergraduate Course), Spring 2019 
+-	Special topics in Decision, operations, and information technologies in Data Process (Graduate Course), Spring 2019 
+-	Emerging Topics in Information Systems Data Visualization and Web Analytics (Undergraduate Course), Spring 2019 
+-	Decision Modeling (MBA Course), Summer 2018
+
+
+  
+Award
 ======
-* Currently signed in to 43 different slack teams
+AOM CTO 2022 Doctoral Consortium, Seattle, United States
+AOM Research Method 2024 Doctoral Consortium, Chicago, United States
+AMCIS 2024 Doctoral Consortium, Salt Lake City, United States
+
