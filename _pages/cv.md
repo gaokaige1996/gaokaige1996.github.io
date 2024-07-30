@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Download my CV
+=====
+Click here to download [Kaige Gao's CV](https://gaokaige1996.github.io/files/Kaige_CV.pdf)
+
 Kaige (Mia) Gao
 =====
 Weatherhead School of Management, Case Western Reserve University
@@ -116,6 +120,4 @@ Information System
  - Special Topics in MIS 									-- Youngjin Yoo
  - Seminar in DESN 								                    -- Satish Nambisan
 
-Download my CV
-=====
-Go to the [Kaige Gao's CV](https://gaokaige1996.github.io/files/Kaige_CV.pdf)
+
