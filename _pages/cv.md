@@ -118,4 +118,4 @@ Information System
 
 Download my CV
 =====
-Go to the [Kaige Gao's CV](https://gaokaige1996.github.io/files/Kaiege_CV.pdf)
+Go to the [Kaige Gao's CV](https://gaokaige1996.github.io/files/Kaige_CV.pdf)
