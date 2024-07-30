@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+#* M.S. in Jekyll, GitHub University, 2014
+#* B.S. in GitHub, GitHub University, 2012
+*Case Western Reserve University, Cleveland, OH, USA                                          Aug, 2019 – Present
+  Ph.D., Information System
+
+*University of Maryland, College Park, MD, USA			                                          Aug, 2017 – Dec, 2018
+  M.A., Business Analytics 
+
+*Sun Yat-sen University, China		                                                            Sep, 2013 – Jun, 2017
+  B.A., Finance
 
 Work experience
 ======
