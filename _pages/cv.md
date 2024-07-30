@@ -12,6 +12,7 @@ redirect_from:
 Kaige (Mia) Gao
 =====
 Weatherhead School of Management, Case Western Reserve University
+
 Tel: +1 (541)745-8812      Email: kxg297@case.edu
 
 
@@ -61,16 +62,22 @@ Teaching Experience
   {% endfor %}</ul>
   
 * Instructor, Weatherhead School of Management, Case Western Reserve University
- -	Advanced Marketing Analytics (Graduate Course), Spring 2023
+  
+ 	  Advanced Marketing Analytics (Graduate Course), Spring 2023
 
 * Teaching Assistant, Weatherhead School of Management, Case Western Reserve University
- -	Advanced Marketing Analytics (Graduate Course), Spring 2022
+  
+ 	  Advanced Marketing Analytics (Graduate Course), Spring 2022
 
 * Teaching Assistant, Robert H. Smith School of Business, University of Maryland
- -	Essential Data Skills for Business Analytics (Undergraduate Course), Spring 2019 
- -	Special topics in Decision, operations, and information technologies in Data Process (Graduate Course), Spring 2019 
- -	Emerging Topics in Information Systems Data Visualization and Web Analytics (Undergraduate Course), Spring 2019 
- -	Decision Modeling (MBA Course), Summer 2018
+  
+ 	 Essential Data Skills for Business Analytics (Undergraduate Course), Spring 2019
+  
+ 	 Special topics in Decision, operations, and information technologies in Data Process (Graduate Course), Spring 2019
+  
+ 	 Emerging Topics in Information Systems Data Visualization and Web Analytics (Undergraduate Course), Spring 2019
+  
+ 	 Decision Modeling (MBA Course), Summer 2018
 
 
   
@@ -86,14 +93,16 @@ Doctoral Coursework
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-* Marketing
+Marketing
+  
  - Research Methods I									-- Corinne Coen
  - Adv Stats: Linear Models								   -- Christopher Burant
  - Adv Stats: Multivariate Analysis							   -- Christopher Burant
  - Multivariate Data Analysis							        -- Melissa Cooper
  - Measurement Theory and Method						             -- Jagdip Singh
 
-* Information System
+Information System
+  
  - Special Topics in MIS								
  - Theoretical Persp in Management						         -- Richard Boland
  - Seminar in MIDS: Introduction to Philosophy of Science                     		 -- Richard Boland
