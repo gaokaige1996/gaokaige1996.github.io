@@ -115,3 +115,7 @@ Information System
  - Bioinformatics for Systems Bio 							     -- Mehmet Koyuturk
  - Special Topics in MIS 									-- Youngjin Yoo
  - Seminar in DESN 								                    -- Satish Nambisan
+
+Download my CV
+=====
+Go to the [Kaige Gao's CV](https://github.com/file/Kaige_CV.pdf
