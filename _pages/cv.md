@@ -18,13 +18,13 @@ Tel: +1 (541)745-8812      Email: kxg297@case.edu
 Education
 ======
 
-*Case Western Reserve University, Cleveland, OH, USA  Ph.D., Information System                         Aug, 2019 – Present
+* Case Western Reserve University, Cleveland, OH, USA  Ph.D., Information System                         Aug, 2019 – Present
   
 
-*University of Maryland, College Park, MD, USA	 M.A., Business Analytics 		                                          Aug, 2017 – Dec, 2018
+* University of Maryland, College Park, MD, USA	 M.A., Business Analytics 		                                          Aug, 2017 – Dec, 2018
  
 
-*Sun Yat-sen University, China		  B.A., Finance                                                          Sep, 2013 – Jun, 2017
+* Sun Yat-sen University, China		  B.A., Finance                                                          Sep, 2013 – Jun, 2017
   
 
 Research Interests
