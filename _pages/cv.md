@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV
-=====
 Click here to download [Kaige Gao's CV](https://gaokaige1996.github.io/files/Kaige_CV.pdf)
 
 Kaige (Mia) Gao
