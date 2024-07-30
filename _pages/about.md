@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-About
+
 ======
 I am Kaige Gao, a Ph.D. candidate in the Department of Design and Innovation at the Weatherhead School of Management, Case Western Reserve University, advised by Professor Youngjin Yoo. I am currently on the job market for the 2024-2025 academic year.
 
