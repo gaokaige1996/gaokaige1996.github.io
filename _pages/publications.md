@@ -13,7 +13,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-======
+
 * **Beyond tie strength: The effect of tie variability on project development in the OSS community**, with Youngjin Yoo and Aaron Schecter, Revise and Resubmit at *Information System Research*
 
   This study introduces a new construct called tie variability, which complements the static effects of tie strength by analyzing their dynamic impact on project development within open-source communities.
