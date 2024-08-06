@@ -24,7 +24,7 @@ author_profile: true
   
 * **Unraveling the Impact of Model Dependency Networks on the Propagation of Artificial Intelligence Innovation**, with Youngjin Yoo and Aaron Schecter, conditional accepted by *International Conferences on Information Systems (ICIS)*, 2024
 
-This study integrates graph neural networks (GNN) and network analytics to examine how innovation in open-source communities and academia influence each other, much like the ripples in water. Additionally, it explores how the relationships between influence models affect the diffusion of AI innovations within the academic field.
+  This study integrates graph neural networks (GNN) and network analytics to examine how innovation in open-source communities and academia influence each other, much like the ripples in water. Additionally, it explores how the relationships between influence models affect the diffusion of AI innovations within the academic field.
 
 Conferences and Presentations
 =====
