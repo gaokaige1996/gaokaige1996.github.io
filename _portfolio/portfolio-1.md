@@ -1,6 +1,6 @@
 ---
 title: "My cat!"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/xiaomi1.png'>"
+excerpt: "I like animals and like life, and always willing to find interesting things in my life, like making coffee and lattee art, snowboarding, adopt a cute cat, camping and hiking<br/><img src='/images/xiaomi1.png'>"
 collection: portfolio
 ---
 
