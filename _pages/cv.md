@@ -98,7 +98,7 @@ Doctoral Coursework
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Marketing
+**Marketing**
   
  - Research Methods I									-- Corinne Coen
  - Adv Stats: Linear Models								   -- Christopher Burant
@@ -106,7 +106,7 @@ Marketing
  - Multivariate Data Analysis							        -- Melissa Cooper
  - Measurement Theory and Method						             -- Jagdip Singh
 
-Information System
+**Information System**
   
  - Special Topics in MIS								
  - Theoretical Persp in Management						         -- Richard Boland
@@ -119,3 +119,27 @@ Information System
  - Seminar in DESN 								                    -- Satish Nambisan
 
 
+ References
+ =====
+
+ **Youngjin Yoo**
+ Associate Dean of Research
+ Professor of Design & Innovation
+ Case Western Reserve University
+ yxy23@case.ed
+
+**Aaron Schecter**
+ Assistant Professor
+ University of Georgia
+ aschecter@uga.edu
+
+ **Kalle Lyytinen**
+ Chair, Department of Design & Innovation
+ Distinguished University Professor
+ Case Western Reserve University
+ kalle.lyytinen@case.edu
+
+ **Yoonseock Son**
+ Assistant Professor
+ University of Notre Dame
+ yson@nd.edu
