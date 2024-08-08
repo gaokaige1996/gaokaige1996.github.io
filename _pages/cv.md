@@ -117,7 +117,7 @@ Doctoral Coursework
  - Seminar in DESN 								                    -- Satish Nambisan
 
 
-A
+References
 ======
 
  **Youngjin Yoo**
