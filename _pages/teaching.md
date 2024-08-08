@@ -24,5 +24,5 @@ author_profile: true
 
 *  Essential Data Skills for Business Analytics (Undergraduate Course), Spring 2019 
 *  Special topics in Decision, operations, and information technologies in Data Process (Graduate Course), Spring 2019 
-*  Emerging Topics in Information Systems Data Visualization and Web Analytics (Un- dergraduate Course), Spring 2019 
+*  Emerging Topics in Information Systems Data Visualization and Web Analytics (Undergraduate Course), Spring 2019 
 *  Decision Modeling (MBA Course), Summer 2018 
