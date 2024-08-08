@@ -36,9 +36,6 @@ Research Interests
 
 * Research Methodology: Network Analysis, Data Mining, Deep Learning, Econometric Analysis
 
-Professional Background
-======
-* Programming Language/Statistic Software Skills: Python, R, SAS, SQL, Tableau, Hadoop
 
   
 Research Papers
@@ -98,13 +95,14 @@ Doctoral Coursework
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-**Marketing**
+**Statistics**
   
  - Research Methods I									-- Corinne Coen
  - Adv Stats: Linear Models								   -- Christopher Burant
  - Adv Stats: Multivariate Analysis							   -- Christopher Burant
  - Multivariate Data Analysis							        -- Melissa Cooper
  - Measurement Theory and Method						             -- Jagdip Singh
+ - Convex Optimization for Engineering (Audit)           -- Vira Chankong
 
 **Information System**
   
@@ -117,6 +115,7 @@ Doctoral Coursework
  - Bioinformatics for Systems Bio 							     -- Mehmet Koyuturk
  - Special Topics in MIS 									-- Youngjin Yoo
  - Seminar in DESN 								                    -- Satish Nambisan
+
 
 
  References
