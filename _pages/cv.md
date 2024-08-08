@@ -117,9 +117,8 @@ Doctoral Coursework
  - Seminar in DESN 								                    -- Satish Nambisan
 
 
-
- References 
- ======
+A
+======
 
  **Youngjin Yoo**
  Associate Dean of Research
