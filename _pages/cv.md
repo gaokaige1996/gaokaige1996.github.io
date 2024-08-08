@@ -121,10 +121,10 @@ References
 ======
 
  **Youngjin Yoo**
- Associate Dean of Research
- Professor of Design & Innovation
- Case Western Reserve University
- yxy23@case.ed
+* Associate Dean of Research
+* Professor of Design & Innovation
+* Case Western Reserve University
+* yxy23@case.ed
 
 **Aaron Schecter**
  Assistant Professor
