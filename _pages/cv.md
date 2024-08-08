@@ -118,8 +118,8 @@ Doctoral Coursework
 
 
 
- References
- =====
+ References 
+ ======
 
  **Youngjin Yoo**
  Associate Dean of Research
